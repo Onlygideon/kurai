@@ -10,10 +10,10 @@ const cover = document.querySelector('#cover');
 
 
 // Song titles
-const songs = ['Bloodstream', 'Jewel', 'just say yeah', 'Nights With You', 'So Much Better', 'Something Just Like This', 'Stressed Out', 'Summer', 'Virtual Friends', 'Young']
+const songs = ['Bloodstream', 'Jewel', 'just say yeah', 'So Much Better', 'Something Just Like This', 'Stressed Out', 'Summer', 'Virtual Friends', 'Young']
 
 // Keep track of the songs
-let songIndex = 8
+let songIndex = 7
 
 // Initially load song into the DOM
 loadSong(songs[songIndex]);
