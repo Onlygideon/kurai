@@ -11,6 +11,7 @@ body{
     background-color: black;
     overflow: hidden;
     font-family: 'Lato', sans-serif;
+    scroll-behavior: smooth;
 }
 
 
@@ -38,7 +39,7 @@ p{
     margin-top: 70px;
     display: flex;
     justify-content: center;
-
+    scroll-behavior: smooth;
 }
 
 .theme-dot{
